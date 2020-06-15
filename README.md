@@ -29,7 +29,7 @@ You can then execute your native executable with: `./target/quarkus-messaging-1.
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
 
-## Start docker for Kafka, MySQL DB (MySQL is used with Event Bus) and AMQP
+## Start docker for Kafka, MySQL DB (MySQL is used with Event Bus), AMQP and JMS
 ```
 docker-compose up
 ```
